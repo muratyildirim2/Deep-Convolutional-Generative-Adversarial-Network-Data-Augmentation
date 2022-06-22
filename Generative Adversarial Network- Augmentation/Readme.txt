@@ -1,0 +1,1 @@
+Image size 3 X 224 X 224
